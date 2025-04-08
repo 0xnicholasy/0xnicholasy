@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ny423" alt="ny423" /></a> </p>
 
-- 🔭 I’m currently working on [Lexer Markets](https://app.lexer.markets/dashboard)
-
-- 🌱 I’m currently learning **Rust, Smart Contract Auditing, System Design**
+- 🌱 I’m currently learning **Smart Contract Auditing, AI Agents, DeFi**
 
 - 👯 I’m looking to collaborate on **A Flutter Diary App**
 
