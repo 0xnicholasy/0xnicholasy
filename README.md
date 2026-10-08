@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Agent nodes feeding a chain of on-chain blocks, lime on charcoal" width="100%" />
+</p>
+
 <a href="https://0xnicholasy.xyz">
   <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=22&duration=3000&pause=1000&color=A3E635&background=1F1F1F00&vCenter=true&repeat=true&width=520&height=35&lines=Forward-deployed+AI+engineer;Smart+contracts+%C2%B7+Full-stack+%C2%B7+AI+agents" alt="Typing SVG" />
 </a>
