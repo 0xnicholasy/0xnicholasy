@@ -1,18 +1,19 @@
 <a href="https://0xnicholasy.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E2E2E2&background=1F1F1F00&vCenter=true&repeat=true&width=435&height=35&lines=Building+dApp+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E2E2E2&background=1F1F1F00&vCenter=true&repeat=true&width=435&height=35&lines=Building+dApps+with+AI;Full-stack+%C2%B7+Web3+%C2%B7+AI+Agents" alt="Typing SVG" />
 </a>
 
 ### `Hey, I'm Nicholas`
 
-Seasoned full-stack blockchain engineer building with AI tools, working remotely from Hong Kong.
+Full-stack blockchain engineer shipping on-chain products with an AI-native workflow.  
+📍 Hong Kong · 🌏 Working remotely
 
 ---
 
 ### `What I'm Building`
 
-- **[OMEN](https://omen.energy)** - RWA tokenization platform with blindbox mechanics on Base
-- **[2Vault](https://2vault.dev)** - AI Chrome extension that clips web pages into Obsidian as connected knowledge
-- **[0xnicholasy.xyz](https://0xnicholasy.xyz)** - Personal website & blog on AI, web3, and engineering
+- **[OMEN](https://omen.energy)** — RWA tokenization platform with blindbox mechanics on Base
+- **[2Vault](https://2vault.dev)** — AI Chrome extension that clips web pages into Obsidian as connected knowledge
+- **[0xnicholasy.xyz](https://0xnicholasy.xyz)** — Personal site & blog on AI, web3, and engineering
 
 ---
 
@@ -22,11 +23,10 @@ Seasoned full-stack blockchain engineer building with AI tools, working remotely
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black)
-![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logo=ethereum&logoColor=white)
 ![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat&logo=ethers&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white)
-![DeFi](https://img.shields.io/badge/DeFi-1C1C1C?style=flat&logoColor=white)
 
 **`AI`**
 
@@ -52,7 +52,7 @@ Seasoned full-stack blockchain engineer building with AI tools, working remotely
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -60,12 +60,12 @@ Seasoned full-stack blockchain engineer building with AI tools, working remotely
 
 ---
 
-### `Fun Facts`
+### `Off the Clock`
 
-- Managing a team of AI agents (Claude, Codex, Cursor) - they don't complain about overtime
-- Specialty coffee sharpens attention to detail
-- Riichi mahjong keeps strategic thinking sharp
-- 15+ countries explored - adaptable to anything
+- 🤖 I manage a team of AI agents (Claude, Codex, Cursor) — none of them complain about overtime
+- ☕ Specialty coffee keeps my attention to detail sharp
+- 🀄 Riichi mahjong trains my strategic thinking
+- ✈️ 15+ countries explored and counting
 
 ---
 
