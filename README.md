@@ -1,4 +1,4 @@
-<a href="https://0xnicholasy.xyz">
+<a href="https://www.0xnicholasy.xyz/en">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E2E2E2&background=1F1F1F00&vCenter=true&repeat=true&width=435&height=35&lines=Building+dApps+with+AI;Full-stack+%C2%B7+Web3+%C2%B7+AI+Agents" alt="Typing SVG" />
 </a>
 
@@ -13,7 +13,7 @@ Full-stack blockchain engineer shipping on-chain products with an AI-native work
 
 - **[OMEN](https://omen.energy)** — RWA tokenization platform with blindbox mechanics on Base
 - **[2Vault](https://2vault.dev)** — AI Chrome extension that clips web pages into Obsidian as connected knowledge
-- **[0xnicholasy.xyz](https://0xnicholasy.xyz)** — Personal site & blog on AI, web3, and engineering
+- **[0xnicholasy.xyz](https://www.0xnicholasy.xyz/en)** — Personal site & blog on AI, web3, and engineering
 
 ---
 
@@ -72,4 +72,4 @@ Full-stack blockchain engineer shipping on-chain products with an AI-native work
 ### `Connect`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xnicholasy)
-[![Website](https://img.shields.io/badge/0xnicholasy.xyz-1f1f1f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://0xnicholasy.xyz)
+[![Website](https://img.shields.io/badge/0xnicholasy.xyz-1f1f1f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.0xnicholasy.xyz/en)
